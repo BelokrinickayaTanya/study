@@ -36,7 +36,7 @@ public class Tank {
     }
 
     public void printPosition() {
-        System.out.println("The Tank " + MODEL + "-" + n + " is at " + x +", " + y + " now.");
+        System.out.println("The Tank " + MODEL + "-" + n + " is at " + x +", " + y + " now. Do you want to do next step?");
     }
 
     public void turnLeft() {
